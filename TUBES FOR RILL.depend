@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1734708460 source:c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tubes for rill\main.cpp
+	<iostream>
+	"relasi.h"
+
+1734708127 source:c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tubes for rill\pasien.cpp
+	<iostream>
+	"pasien.h"
+
+1734627742 c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tubes for rill\pasien.h
+	<iostream>
+
+1734708127 source:c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tubes for rill\drgigi.cpp
+	<iostream>
+	"drgigi.h"
+
+1734610764 c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tubes for rill\drgigi.h
+	<iostream>
+
+1734707969 source:c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tubes for rill\relasi.cpp
+	<iostream>
+	"relasi.h"
+	<cstdio>
+
+1734626539 c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tubes for rill\relasi.h
+	<iostream>
+	"drgigi.h"
+	"pasien.h"
+
